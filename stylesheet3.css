@@ -1,0 +1,5 @@
+.all{ 
+    display: grid;
+    justify-content: center;
+}
+html{ background-image: linear-gradient(to right top, #601b4e, #461946, #2d153b, #18102d, #04011e); } 
